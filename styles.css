@@ -84,7 +84,7 @@ header, footer {
 
 img {
     float: right;
-    margin: 5px 5px 5px 50px;
+    margin: 5px 5px 10px 50px;
     width: 300px;
     border: 2px solid black;
     border-radius: 4px;
@@ -92,7 +92,7 @@ img {
 
 iframe {
     float: left;
-    margin: 5px 50px 5px 5px;
+    margin: 5px 50px 10px 5px;
     width: 300px;
     height: 400px;
     border: 2px solid black;
