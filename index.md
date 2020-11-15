@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>A Cuisine Courtship</title>
+        <link rel="stylesheet" type="text/css" href="normstyles.css">
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+
+    <body>
+        <header>
+            <h1>A Cuisine Courtship</h1>
+            <p><span>We like to travel, and we like to eat!</span></p>
+            <p>Like many couples, my husband and I use the places we've been and the meals we've shared to help define and remember our relationship.</br>
+            In this pandemic time when we can't safely do either, what better way to experience these treats than to remember them.</p>
+            <p><span>So allow me to present, a modern romance told through our travels - and our food!</span></p>
+        </header>
+        <div>   
+            <ul>
+                <li>2015
+                    <div class="dropdown">
+                        <a href="#KingAndI">King and I Thai</a>
+                        <a href="#RaSushi">Ra Sushi</a> 
+                    </div>
+                </li>
+                <li>2016
+                    <div class="dropdown">
+                        <a href="#MaeKongThai">Mae Kong Thai</a>
+                        <a href="#Eggstasy">Eggstasy</a>
+                    </div>
+                </li>
+                <li>2017
+                    <div class="dropdown">
+                        <a href="#LaSantisima">La Santisima</a>
+                        <a href="#OriginalPancakeHouse">Original Pancake House</a>
+                    </div>
+                </li>
+                <li>2018
+                    <div class="dropdown">
+                        <a href="#FlyingFish">Flying Fish</a>
+                        <a href="#PuebloNuevo">Pueblo Nuevo</a>
+                        <a href="#Hamiltons">Hamilton's</a>
+                    </div>
+                </li>
+                <li>2019
+                </li>
+                <li>2020
+                    <div class="dropdown">
+                        <a href="#HajiBaba">Haji-Baba</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+            <!-- 
+            <li>The Brown Hotel <i>(May 2019)</i></li>
+            <li>Haji-Baba <i>(Jan. 2020)</i></li> -->
+
+        <main>
+            <article>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2976.3486892107403!2d-72.7126158483218!3d41.75613937912993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7accad9061f75%3A0xfcd0b1fd16a6a91f!2sKing%20%26%20I%20Thai%20Restaurant!5e0!3m2!1sen!2sus!4v1605386528662!5m2!1sen!2sus" frameborder="0" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <img src="images/3 Hartford.jpeg" alt="Jack at restaurant table">
+                <h2 id="KingAndI">King and I Thai</h2>
+                <span>Hartford, CT - Aug. 17, 2015</span>
+                <p>Jack and I met and started dating in mid-June, while I was working on a summerstock contract in upstate NY. After two months of dating, Jack landed a job in Connecticut. I still had a month left on contract at a summerstock theatre, so on some time off I went down to stay with him. While it was a trip of only 90 minutes, it definitely represented a step forward for us.</p>
+                <p>While we never returned to this restaurant, Thai cuisine would become a staple!</p>
+            </article>
+            <article>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106582.91404648614!2d-112.02164299916761!3d33.4045711285904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9c1cf091d986ae4b!2sRA%20Sushi%20Bar%20Restaurant!5e0!3m2!1sen!2sus!4v1605386424723!5m2!1sen!2sus" frameborder="0" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <img src="images/6 Tempe.jpeg" alt="Jack at restaurant table">
+                <h2 id="RaSushi">Ra Sushi</h2>
+                <p><span>Tempe, AZ - Oct. 31, 2015</span></p>
+                <p>I left NY and returned to Phoenix in mid-September, not knowing if or when we'd see each other again. Luckily, Jack bought our first of many plane tickets that year and flew out to see me. On a failed hike, we decided to cement our relationship and become boyfriends a few days before this meal.</p>
+                <p>Ra is my favorite sushi place in Phoenix, having a location in downtown Tempe just up the street from campus and a great reverse-Happy Hour menu. We went after Jack attended a performance of me in the show <i>Sondheim on Sondheim</i>.</p>
+            </article>
+            <article>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2980.5857837132235!2d-72.78269344832358!3d41.66469077913783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7b3b7d9dbc179%3A0xdf5afd1c1cdeb1fd!2sMae%20Kong%20Thai%20Restaurant!5e0!3m2!1sen!2sus!4v1605386590297!5m2!1sen!2sus" frameborder="0" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <img src="images/8 New Britain.jpeg" alt="Jack at restaurant table">
+                <h2 id="MaeKongThai">Mae Kong Thai</h2>
+                <p><span>New Britain, CT - Aug. 22, 2016</span></p>
+                <p>For the next year, Jack and I would have many trips back-and-forth between the northeast and Arizona. After Jack finished up a summer of CPE training at Yale-New Haven Hospital, I flew out to help him move to Phoenix with me! We had a long drive ahead of us, but were excited to finally be able to see each other every day and be in the same time zone.</p>
+            </article>
+            <article>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.8758300228224!2d-111.93346344847923!3d33.582573080641744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b74937096f2d7%3A0x6516bf470e92ab7c!2sEGGstasy!5e0!3m2!1sen!2sus!4v1605386628244!5m2!1sen!2sus" frameborder="0" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <img src="images/9 Scottsdale.jpeg" alt="Jack at restaurant table">
+                <h2 id="Eggstasy">Eggstasy</h2>
+                <p><span>Scottsdale, AZ - Oct. 30, 2016</span></p>
+                <p>Shortly after moving Jack into our home in Scottsdale, we moved to a new place in Paradise Valley. We celebrated the move and our 1st anniversary by trying out a new-to-us brunch place. Eggstasy quickly became a favorite to us for its healthy portions and delicious food!</p>
+            </article>
+            <article>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3328.23675908455!2d-112.04959794848128!3d33.46918618067424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b0df55910fe4f%3A0xe9e4257554aebf88!2sLa%20Santisima!5e0!3m2!1sen!2sus!4v1605386659943!5m2!1sen!2sus" frameborder="0" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <img src="images/10 Phoenix.jpeg" alt="Jack at restaurant table">
+                <h2 id="LaSantisima">La Santisima</h2>
+                <p><span>Phoenix, AZ - Jan. 29, 2017</span></p>
+                <p>Having settled into Phoenix, we celebrate a random weekend by grabbing some local Southwestern brunch. La Santisima quickly became a favorite, for their vibrant atmosphere and salsa bar with over a dozen varieties. This was also Jack's first experience with mole! That spring we also took some delightful away trips to Sedona and LA.</p>
+            </article>
+            <article>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3115.170999715679!2d-90.59090604838462!3d38.66793797950668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87df2abc6d92f25f%3A0xdadc6a38d668f9aa!2sThe%20Original%20Pancake%20House!5e0!3m2!1sen!2sus!4v1605386692693!5m2!1sen!2sus" frameborder="0" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <img src="images/17 Chesterfield.jpeg" alt="Jack at restaurant table">
+                <h2 id="OriginalPancakeHouse">Original Pancake House</h2>
+                <p><span>Chesterfield, MO - Oct. 20, 2017</span></p>
+                <p>In order to continue Jack's CPE training and to be closer to my family, we moved to St. Louis in August of 2017. We first took a whirlwind tour of many national parks in the West, racking up lots of miles and camping adventures. After getting settled in at my brother's in Chesterfield, we celebrated an early 2nd anniversary with more brunch - we are gay after all!</p>
+                <p>We were excited to be close to another Original Pancake House, having first discovered the chain in Phoenix. It was a welcome piece of continuity in an unfamiliar place. Some pumpkin spice pancakes and blintzes were on theh menu.</p>
+            </article>
+            <article>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3262.5826963196255!2d-90.05502504845148!3d35.14208598022693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87d57e96949da0dd%3A0xacf62ccb7d4d529b!2sFlying%20Fish!5e0!3m2!1sen!2sus!4v1605386999802!5m2!1sen!2sus" frameborder="0" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <img src="images/22 Memphis.jpeg" alt="Jack at restaurant table">
+                <h2 id="FlyingFish">Flying Fish</h2>
+                <p><span>Memphis, TN - Feb. 18, 2018</span></p>
+                <p>After having stayed with my brother for a while, by this point we had found our first apartment in Richmond Heights! We took our first local trip to take in Memphis and Nashville. We found this shrine to everything fishy and fried and partook of a wonderful meal before seeing <i>The Color Purple</i> at the Orpheum. One of many great meals and experiences on this trip!</p>
+            </article>
+            <article>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3160.841252964025!2d-99.28535804840537!3d37.60589497969143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87a67dfbc22ee023%3A0x99e999c62fa5b32e!2sKansan%20Pueblo%20Nuevo!5e0!3m2!1sen!2sus!4v1605386736587!5m2!1sen!2sus" frameborder="0" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <img src="images/24 KS.jpeg" alt="Jack at restaurant table">
+                <h2 id="PuebloNuevo">Pueblo Nuevo</h2>
+                <p><span>Greensburg, KS - July 6, 2018</span></p>
+                <p>The summer of 2018, I first worked in Rolla, MO music directing <i>Hello, Dolly!</i> and then returned to Phoenix to music direct <i>The Rocky Horror Show</i>. The long time apart was a test for us, having gotten used to seeing each other every day - but we got through it! Jack joined me on the drive out to AZ, and we stopped at this random eatery in Kansas to fuel up.</p>
+            </article>
+            <article>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3027.1460256606006!2d-73.97951164834475!3d40.648711379237525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25b269cef1491%3A0xbd9029fc5c667fbb!2sHamilton&#39;s!5e0!3m2!1sen!2sus!4v1605386775582!5m2!1sen!2sus" frameborder="0" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <img src="images/25 NY.jpeg" alt="Jack at restaurant table">
+                <h2 id="Hamiltons">Hamilton's</h2>
+                <p><span>Brooklyn, NY - Dec. 29, 2018</span></p>
+                <p>On Dec. 20, Jack surprised me with an engagement! After celebrating with friends and family here, we spent Christmas with Jack's family back in upstate NY. Then per tradition, we followed it up with a few days in the city. We had shared our first "I love you" sentiments at Rockefeller Center in 2015, so it felt full-circle to come back as an engaged couple.</p>
+                <p>A friend of mine hosted us in Brooklyn, and he recommended this wonderful brunch spot. I believe Jack helped himself to more mole, while I got a French toast brick!</p>
+            </article>
+            <article>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.343851695712!2d-111.91568514848221!3d33.41427868069011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08f3ce2282b3%3A0xa10d10b04c9f3f53!2sHaji-Baba!5e0!3m2!1sen!2sus!4v1605386803121!5m2!1sen!2sus" frameborder="0" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <img src="images/30 Tempe.jpeg" alt="Jack at restaurant table">
+                <h2 id="HajiBaba">Haji-Baba</h2>
+                <p><span>Tempe, AZ - Jan. 4, 2020</span></p>
+                <p>After all those meals (and <i>sooo</i> many more), we finally got married on New Year's Eve,2019! The wedding was held in Phoenix, so we stayed on for a few days afterward for a mini-honeymoon. We hit up our favorite spots again while we could, including Haji Baba - a wonderful little Middle Eastern restaurant and grocer. We went "all out" and got the mix plates with rose drink - delicious!</p>
+            </article>
+        </main>
+        <footer>
+            <p>Photos &copy; of Curtis Farrell.</p>
+        </footer>
+    </body>
+</html>
